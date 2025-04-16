@@ -11,7 +11,7 @@ public class Componente3 : MonoBehaviour
     }
     void Start()
     {
-        Componente1.miObjeto.name = "nuevonombredemiobjeto";
+        Componente1.miObjeto.name = "NuevoNombredemiObjeto";
     }
 
     // Update is called once per frame
